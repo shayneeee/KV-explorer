@@ -13,16 +13,16 @@ Then, run the client program :
 ./exp-cli  
 
 Insert a key-value :  
-&gt; set&nbsp;&nbsp;zx&nbsp;&nbsp;1  
+&gt; set&nbsp;&nbsp;shayne&nbsp;&nbsp;1  
    
 Search a key :   
-&gt; get&nbsp;&nbsp;zx  
+&gt; get&nbsp;&nbsp;shayne  
   
 Update a key :  
-&gt; update&nbsp;&nbsp;zx&nbsp;&nbsp;2  
+&gt; update&nbsp;&nbsp;shayne&nbsp;&nbsp;2  
    
 Delete a key :  
-&gt; del&nbsp;&nbsp;zx  
+&gt; del&nbsp;&nbsp;shayne  
   
 Display the current status of the storage system :  
 &gt; stat  
