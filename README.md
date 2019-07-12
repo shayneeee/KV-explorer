@@ -1,6 +1,6 @@
-# Explorer
-Explorer is a key-value storage system with client and server.   
-Explorer use B+ tree as storage engine. Client and server communicate using the TCP protocol.  
+# KV-Explorer
+KV-Explorer is a key-value storage system with client and server.   
+KV-Explorer use B+ tree as storage engine. Client and server communicate using the TCP protocol.  
   
 ## Compile
 make
